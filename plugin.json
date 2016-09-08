@@ -50,7 +50,6 @@
 			"insert": [{
 				"tableName": "PROCESS_TYPE",
 				"data": [
-					["2", "Semantic", "NULL"],
 					["24", "R Action", "2"]
 				]
 			},{
